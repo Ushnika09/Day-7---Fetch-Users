@@ -24,7 +24,7 @@ Random User API 🧑‍🤝‍🧑
 
 # 📂 Installation & Setup
 ##  1️⃣ Clone the repository
-[git clone https://github.com/your-username/fetch-users.git](https://github.com/Ushnika09/Day-7---Fetch-Users.git)
+https://github.com/Ushnika09/Day-7---Fetch-Users.git
 
 cd fetch-users
 
